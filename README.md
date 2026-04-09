@@ -1,14 +1,11 @@
 # ¡¡¡Buenas Buenas!!! Soy HefestoPrimal | Mexatrónica
 
-<!--
-<p align="center">
-    <img src="imgs\Logo Mexatronica Ajolote con letras y sin fondo.png" alt="Logo Mexatronica"
-    width="20%">
-</p>
--->
-
-<img src="imgs\Logo Mexatronica Ajolote con letras y sin fondo.png" alt="Logo Mexatronica" width="20%">
-<img src="imgs\Avatar LEGO Github.png" alt="Avatar Github" width="20%">
+<table>
+    <tr>
+        <td><img src="imgs\Logo Mexatronica Ajolote con letras y sin fondo.png" alt="Logo Mexatronica" width="100%"></td>
+        <td><img src="imgs\Avatar LEGO Github.png" alt="Avatar Github" width="100%"></td>
+    </tr>
+</table>
 
 ## 💫 Sobre mi:
 Apasionado de la mecatrónica con experiencia en diseño de PCBs, programación de microcontroladores y automatización. Me gusta compartir proyectos donde el hardware y el software trabajan juntos. También desarrollo dashboards web con Django para visualización de datos de sensores y sistemas embebidos.
