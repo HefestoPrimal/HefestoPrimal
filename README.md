@@ -1,9 +1,9 @@
 # ¡¡¡Buenas Buenas!!! Soy HefestoPrimal | Mexatrónica
 
-<table>
+<table style="border='0'">
     <tr>
-        <td><img src="imgs\Logo Mexatronica Ajolote con letras y sin fondo.png" alt="Logo Mexatronica" width="100%"></td>
-        <td><img src="imgs\Avatar LEGO Github.png" alt="Avatar Github" width="100%"></td>
+        <td><img src="imgs\Logo Mexatronica Ajolote con letras y sin fondo.png" alt="Logo Mexatronica" width="30%"></td>
+        <td><img src="imgs\Avatar LEGO Github.png" alt="Avatar Github" width="30%"></td>
     </tr>
 </table>
 
