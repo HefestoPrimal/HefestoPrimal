@@ -9,7 +9,7 @@
         </td>
         <td style="border-collapse: collapse; border: none;">
             <p align="center">
-            <img src="imgs\Avatar LEGO Github.png" alt="Avatar Github" width="40%">
+            <img src="imgs\Avatar LEGO Github.png" alt="Avatar Github" width="40%" border-radius="15px">
             </p>
         </td>
     </tr>
